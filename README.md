@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 总之一句：西邮 电子工程学院 研究生<img align="right" src="https://github-readme-stats.vercel.app/api?username=delehub&show_icons=true">
+- <img align="right" src="https://github-readme-stats.vercel.app/api?username=delehub&show_icons=true">
 - 🌱 研究方向：嵌入式系统开发，非线性动力系统 混沌图像加密算法等
 - 📫 How to reach me: Netease cloud mailbox：delehub@gmail.com
 - 🌱 I’m currently learning  C/C++ MATLAB STM32 ESP32 Embedded Linux ...
