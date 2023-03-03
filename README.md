@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 研究方向：嵌入式系统开发，混沌系统与图像加密算法等
+- 🌱 Research direction: Embedded system development, chaotic system and image encryption algorithm, etc
 - 📫 How to reach me: Netease cloud mailbox：delehub@gmail.com
 - 🌱 I’m currently learning  C/C++ MATLAB STM32 ESP32 Embedded Linux ...
 - 🤔 I’m looking for help with I hope to learn from the bosses of embedded IoT development
