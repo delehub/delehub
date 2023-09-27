@@ -5,8 +5,7 @@
 - 🤔 I’m looking for help with I hope to learn from the bosses of embedded IoT development
 - 💬 Ask me about：A electronic information engineering major student hoping to become an IoT Development Engineer or Embedded system Development Engineer
 - Gitee_Project: https://gitee.com/delehubcode/OpenStudyNote
-- Gitee_Project: https://gitee.com/delehubcode/stm32-template
 - Gitee_Project: https://gitee.com/delehubcode/cw32-template
 - Gitee_Project: https://gitee.com/delehubcode/embedded-ch32-v307-board-template
 - Gitee_Project: https://gitee.com/delehubcode/embedded-mm32-board-template
-- Gitee_Project: https://gitee.com/delehubcode/STM32_ESP8266-PCB-Example
+- Gitee_Project: https://gitee.com/End-ING/embedded-bl618-board-note
