@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning  C/C++ MATLAB STM32 ESP32 Embedded Linux ...
 - 🤔 I’m looking for help with I hope to learn from the bosses of embedded IoT development
 - 💬 Ask me about：A electronic information engineering major student hoping to become an IoT Development Engineer or Embedded system Development Engineer
-- Gitee_Project: https://gitee.com/delehubcode/OpenStudyNote
-- Gitee_Project: https://gitee.com/delehubcode/cw32-template
-- Gitee_Project: https://gitee.com/delehubcode/embedded-ch32-v307-board-template
-- Gitee_Project: https://gitee.com/delehubcode/embedded-mm32-board-template
+- Gitee_Project: https://gitee.com/End-ING/open-study-note
+- Gitee_Project: https://gitee.com/End-ING/embedded-cw32-board-template
+- Gitee_Project: https://gitee.com/End-ING/embedded-ch32-v307-board-template
+- Gitee_Project: https://gitee.com/End-ING/embedded-mm32-board-template
 - Gitee_Project: https://gitee.com/End-ING/embedded-bl618-board-note
