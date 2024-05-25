@@ -6,11 +6,15 @@
 - 💬 Ask me about：A electronic information engineering major student hoping to become an IoT Development Engineer or Embedded system Development Engineer
 - Embedded-Note https://gitee.com/End-ING/embedded-note
 - Gitee_Project: https://gitee.com/End-ING/open-study-note
+- Gitee_Project: https://gitee.com/End-ING/embedded-arterytek32-board
+- Gitee_Project: https://gitee.com/End-ING/embedded-stm32-board-template
 - Gitee_Project: https://gitee.com/End-ING/embedded-gd32-board-template
 - Gitee_Project: https://gitee.com/End-ING/embedded-apm32-board
 - Gitee_Project: https://gitee.com/End-ING/embedded-cw32-board-template
 - Gitee_Project: https://gitee.com/End-ING/embedded-ch32-v307-board-template
 - Gitee_Project: https://gitee.com/End-ING/embedded-mm32-board-template
+- Gitee_Project: https://gitee.com/End-ING/embedded-acm32-board
 - Gitee_Project: https://gitee.com/End-ING/embedded-bl618-board-note
+- Gitee_Project: https://gitee.com/End-ING/embedded-ai-m61-board
 - Gitee_Project: https://gitee.com/End-ING/embedded-gcc-template
-
+- Gitee_Project: https://gitee.com/End-ING/open-fpga-note
